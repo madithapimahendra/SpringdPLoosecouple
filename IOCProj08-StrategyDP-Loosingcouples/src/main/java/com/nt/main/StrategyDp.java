@@ -13,7 +13,8 @@ Flipkart fpkt =ctx.getBean("fpkt",Flipkart.class);
 
 String msg=fpkt.Order(100, 3000);
 System.out.println(msg);
-System.out.println(" Modified that code");
+System.out.print(" Modified that code bn-upi payment");
+
 	}
 	catch(Exception e) 
 	{
